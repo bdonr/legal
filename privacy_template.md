@@ -1,6 +1,6 @@
 # **[DEVELOPER NAME]** PRIVACY POLICY
 
-Last Revised: **[ DATE ]**
+Last Revised: 2-15-2024
 
 Our privacy policy applies to information we collect when you use or access our website, application, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective **[TIME PERIOD]** after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -8,7 +8,6 @@ Our privacy policy applies to information we collect when you use or access our 
 
 ### Information You Provide to Us
 
-**[CUSTOMIZE AS APPROPRIATE.]**
 
 We collect information you provide directly to us. For example, we collect information when you participate in any interactive features of our services, fill out a form, request customer support, provide any contact or identifying information or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, credit card information and other contact or identifying information you choose to provide.
 
@@ -47,14 +46,13 @@ By accessing and using our services, you consent to the processing and transfer 
 
 ## Sharing of Information
 
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
 
 We may share personal information about you as follows:
 
-* With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as **[DESCRIBE TYPES OF THIRD PARTY SERVICE PROVIDERS, IF APPLICABLE]**;
+* With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as Googleplay, Google, Apple, Meta, Facebook, X;
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
 * To enforce applicable user agreements or policies, including our Terms of Service **[URL FOR TERMS OF SERVICE]**; and to protect us, our users or the public from harm or illegal activities;
-* In connection with any merger, sale of **[DEVELOPER NAME]** assets, financing or acquisition of all or a portion of our business to another company; and
+* In connection with any merger, sale of ctwome assets, financing or acquisition of all or a portion of our business to another company; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
 We may also share aggregated or anonymized information that does not directly identify you.
@@ -93,6 +91,6 @@ California law permits residents of California to request certain details about 
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at:  **[INSERT PHYSICAL AND/OR E-MAIL ADDRESS]**.
+If you have any questions about this privacy policy, please contact us at: ctwome@icloud.com.
 
 **[FINAL NOTE: CERTAIN APPLICATION STORES (E.G., APPLE APP STORE, GOOGLE PLAY, ETC.) MAY REQUIRE YOU TO INCLUDE CERTAIN MINIMUM PRIVACY COMMITMENTS IN THIS PRIVACY POLICY AS A CONDITION TO MAKING YOUR APPLICATION AVAILABLE ON SUCH PLATFORM. IF APPLICABLE, REVIEW YOUR AGREEMENT WITH ANY SUCH APPLICATION STORE TO DETERMINE IF ADDITIONAL PROVISIONS ARE REQUIRED.]**
