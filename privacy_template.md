@@ -49,7 +49,7 @@ We may share personal information about you as follows:
 
 * With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as Googleplay, Google, Apple, Meta, Facebook, X;
 * If we believe disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request;
-* To enforce applicable user agreements or policies, including our Terms of Service **[URL FOR TERMS OF SERVICE]**; and to protect us, our users or the public from harm or illegal activities;
+* To enforce applicable user agreements or policies, including our Terms of Service **https://github.com/bdonr/legal/blob/main/terms_template.md**; and to protect us, our users or the public from harm or illegal activities;
 * In connection with any merger, sale of ctwome assets, financing or acquisition of all or a portion of our business to another company; and
 * If we notify you through our services (or in our privacy policy) that the information you provide will be shared in a particular manner and you provide such information.
 
