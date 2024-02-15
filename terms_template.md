@@ -86,7 +86,7 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 
 
-We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **[LINK TO FULL COPYRIGHT POLICY IF APPLICABLE.]**
+We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **https://github.com/bdonr/legal/blob/main/copyright_template.md**
 
 ## Governing Law
 
