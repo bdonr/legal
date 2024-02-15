@@ -15,7 +15,6 @@ We collect information you provide directly to us. For example, we collect infor
 
 When you access or use our services, we automatically collect information about you, including:
 
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
 
 * **Log Information**: We log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our services.
 * **Device Information**: We collect information about the computer you use to access our services, including the hardware model, and operating system and version.
@@ -84,7 +83,7 @@ You may opt out of receiving any promotional emails from us by following the ins
 
 **[CERTAIN TYPES OF SERVICES THAT DELIVER DIRECT MARKETING TO USERS AND INTERACT WITH CALIFORNIA RESIDENTS MAY BE SUBJECT TO TERMS IN THIS SECTION. CONSULT WITH LEGAL COUNSEL REGARDING YOUR PRIVACY OBLIGATIONS UNDER CALIFORNIA LAW.]**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at **ctwome@icloud.com**.  However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.  To opt out of having information about you shared with third parties for direct marketing purposes, please **[INSERT DESCRIPTION OF OPT OUT MECHANISM]**.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at **ctwome@icloud.com**.  However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.  
 
 ## Contact Us
 
