@@ -30,7 +30,6 @@ In order to provide you with access to the Service, or to provide you with bette
 
 ## Use of Information
 
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
 
 We use information about you for various purposes, including to:
 
@@ -59,7 +58,6 @@ We may also share aggregated or anonymized information that does not directly id
 
 ## Third Party Analytics
 
-**[INCLUDE/CUSTOMIZE AS APPROPRIATE.]**
 
 We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
 
@@ -69,7 +67,6 @@ We take reasonable measures to help protect personal information from loss, thef
 
 ## Your Information Choices
 
-**[INCLUDE/CUSTOMIZE AS APPROPRIATE]**
 
 ### Location Information
 
@@ -87,7 +84,7 @@ You may opt out of receiving any promotional emails from us by following the ins
 
 **[CERTAIN TYPES OF SERVICES THAT DELIVER DIRECT MARKETING TO USERS AND INTERACT WITH CALIFORNIA RESIDENTS MAY BE SUBJECT TO TERMS IN THIS SECTION. CONSULT WITH LEGAL COUNSEL REGARDING YOUR PRIVACY OBLIGATIONS UNDER CALIFORNIA LAW.]**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at **[INSERT DESIGNATED MAILING ADDRESS, E-MAIL ADDRESS OR TOLL-FREE TELEPHONE NUMBER OR FACSIMILE NUMBER]**.  However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.  To opt out of having information about you shared with third parties for direct marketing purposes, please **[INSERT DESCRIPTION OF OPT OUT MECHANISM]**.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at **ctwome@icloud.com**.  However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.  To opt out of having information about you shared with third parties for direct marketing purposes, please **[INSERT DESCRIPTION OF OPT OUT MECHANISM]**.
 
 ## Contact Us
 
