@@ -1,4 +1,4 @@
-# **[DEVELOPER NAME]** TERMS OF SERVICE
+# **CTWOME** TERMS OF SERVICE
 
 Last Updated: **02-15-2024**
 
